@@ -13,8 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/olapex.dir/src/OlapSteppingAction.cc.o"
   "CMakeFiles/olapex.dir/src/RandomDetector.cc.o"
   "CMakeFiles/olapex.dir/src/SolidAnalyser.cc.o"
-  "olapex.pdb"
   "olapex"
+  "olapex.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

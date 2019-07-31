@@ -6,30 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../transforms/include/G4LeptonConstructor.hh
-globals.hh
-../transforms/include/globals.hh
-G4ios.hh
-../transforms/include/G4ios.hh
-
-../transforms/include/PhysicsList.hh
-G4VUserPhysicsList.hh
-../transforms/include/G4VUserPhysicsList.hh
-globals.hh
-../transforms/include/globals.hh
-G4LeptonConstructor.hh
-../transforms/include/G4LeptonConstructor.hh
-G4MesonConstructor.hh
--
-G4BaryonConstructor.hh
--
-G4BosonConstructor.hh
--
-G4IonConstructor.hh
--
-G4ShortLivedConstructor.hh
--
-
 /home/irio/Área de trabalho/geant4_9_6_p04/examples/extended/geometry/transforms/src/PhysicsList.cc
 PhysicsList.hh
 /home/irio/Área de trabalho/geant4_9_6_p04/examples/extended/geometry/transforms/src/PhysicsList.hh
@@ -88,6 +64,8 @@ G4LeptonConstructor.hh
 G4MesonConstructor.hh
 -
 G4BaryonConstructor.hh
+-
+G4BosonConstructor.hh
 -
 G4IonConstructor.hh
 -
@@ -1321,6 +1299,12 @@ G4ios.hh
 /usr/local/include/Geant4/G4ios.hh
 G4ParticleDefinition.hh
 /usr/local/include/Geant4/G4ParticleDefinition.hh
+
+/usr/local/include/Geant4/G4LeptonConstructor.hh
+globals.hh
+/usr/local/include/Geant4/globals.hh
+G4ios.hh
+/usr/local/include/Geant4/G4ios.hh
 
 /usr/local/include/Geant4/G4LogicalVolume.hh
 G4Types.hh

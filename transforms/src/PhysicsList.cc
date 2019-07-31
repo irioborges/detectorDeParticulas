@@ -129,7 +129,7 @@ void PhysicsList::ConstructBoson()
 {
        //G4BosonConstructor pConstructor;
        //pConstructor.ConstructParticle();
-       G4Boson::BosonDefinition();
+       //G4Boson::BosonDefinition();
 }
 
 void PhysicsList::ConstructShortLived()
